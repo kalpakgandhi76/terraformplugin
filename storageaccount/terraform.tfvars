@@ -1,2 +1,2 @@
 resource_group_name = "backstagepocgroup"
-storage_account_name = "backstagestorage"
+storage_account_name = "backstagepocstorage"
